@@ -1,5 +1,5 @@
 //16软件2班任思颖 201600800502  叶珂（201600800529） 杨倩（201600800526）
-//叶珂     sdsd说                                                                  
+//叶珂     sdsd说        fghf                                                          
 #include<stdlib.h>
 #include<string.h>
 #include<stdio.h>
